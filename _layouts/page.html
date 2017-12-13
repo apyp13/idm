@@ -34,9 +34,9 @@ layout: default
 {% unless page.sidebar == false %}
 <aside class="sidebar">
   {% if site.page_asides.size %}
-    {% include_array page_asides %}
+    {% include [asides/recent_posts.html, custom/asides/simplicity_defined.html] %}
   {% else %}
-    {% include_array default_asides %}
+    {% include asides/recent_posts.html %}
   {% endif %}
 </aside>
 {% endunless %}
