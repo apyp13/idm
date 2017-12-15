@@ -9,3 +9,4 @@
 #blog_index_asides:  [asides/recent_posts.html, custom/asides/archive.html]
 #post_asides:        [asides/recent_posts.html]
 #page_asides:        [asides/recent_posts.html, custom/asides/simplicity_defined.html]
+theme: jekyll-theme-minimal
