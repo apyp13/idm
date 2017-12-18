@@ -7,7 +7,7 @@ comments: true
 categories: 
 ---
 
-Check out the demo <a href="{{ root_url }}/idm/assets/IdMUnitDemo.swf"> here </a>
+Check out the demo <a href="{{ root_url }}/assets/IdMUnitDemo.swf"> here </a>
 
 You can open it with Internet Explorer or Firefox.
 
