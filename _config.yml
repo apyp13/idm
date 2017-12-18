@@ -4,6 +4,7 @@
 #    Jekyll & Plugins     #
 # ----------------------- #
 
+root: /idm
 
 #default_asides:     [asides/recent_posts.html]
 #blog_index_asides:  [asides/recent_posts.html, custom/asides/archive.html]
